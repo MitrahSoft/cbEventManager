@@ -1,0 +1,6 @@
+DROP TABLE mitrahemeventtermrelationship CASCADE CONSTRAINTS;
+DROP TABLE mitrah_em_events CASCADE CONSTRAINTS;
+DROP TABLE mitrah_em_locations CASCADE CONSTRAINTS;
+DROP TABLE mitrah_em_organizers CASCADE CONSTRAINTS;
+DROP TABLE mitrah_em_settings CASCADE CONSTRAINTS;
+DROP TABLE mitrah_em_term CASCADE CONSTRAINTS;

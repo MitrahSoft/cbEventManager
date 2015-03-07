@@ -1,0 +1,1 @@
+<cfoutput>	<style>		.popover-content{			width:200px !important;		}	</style>	 <br><div class="box" ><div id='loading' style='display:none'></div>	<div id="calendar"></div></div></cfoutput>
